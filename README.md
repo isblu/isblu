@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isblu
-- 👀 I’m interested in custom roms for android 
-- 🌱 I’m currently learning python(ik lol)
+- 👀 I’m interested in building custom roms and native apps for android 
+- 🌱 I’m currently learning python, java and kotlin
 - 📫 Reach me on telegram(if_isblu)
 
 <!---
