@@ -56,9 +56,9 @@
 
 <p align="center">
 <a href="https://www.example.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.example.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/lisonmendis/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lisonmendis-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/lison-mendis-604541286/?originalSubdomain=lk"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lisonmendis-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/lisonmendis/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lisonmendis-blue?style=flat-square&logo=instagram"></a>
-<a href="https://telegram.com/if_isblu"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-isblu-blue?style=flat-square&logo=Telegram"></a>
+<a href="https://t.me/if_isblu"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-isblu-blue?style=flat-square&logo=Telegram"></a>
 
 <!---s
 isblu/isblu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
