@@ -50,7 +50,7 @@
 ### 🌐 Connect with me
 
 <p align="center">
-<a href="https://www.example.com/">
+<a href="https://www.isblu.dev/">
   <img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/lison-mendis-604541286/?originalSubdomain=lk">
